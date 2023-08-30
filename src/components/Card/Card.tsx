@@ -1,3 +1,5 @@
+'use client';
+
 import { useRouter } from 'next-intl/client'
 import I18nLink from "../I18nLink"
 
